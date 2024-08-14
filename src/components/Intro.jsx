@@ -4,7 +4,7 @@ function Intro() {
     return (
         <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
             <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Renee Rodriguez</h1>
-            <div class="avatar">
+            <div className="avatar">
                 <img src="./assets/avatar.jpg" width={250} height={250}
                     alt="black and white avatar image as charcoal drawing" />
             </div>
